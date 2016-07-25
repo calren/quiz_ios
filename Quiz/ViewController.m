@@ -40,7 +40,7 @@
 - (IBAction)showAnswer:(id)sender {
 //    NSString *testString = @"Water";
 //    self.answerLabel.text = testString;
-    NSArray *answers = @[@"150", @"Pikachu", @"Bulbasaur, Charmander, Squirtle"];
+    NSArray *answers = @[@"151", @"Pikachu", @"Bulbasaur, Charmander, Squirtle"];
     self.answerLabel.text = answers[self.currentQuestionIndex];
 }
 
