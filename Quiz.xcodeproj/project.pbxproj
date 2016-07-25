@@ -202,6 +202,9 @@
 		94D5DB351D45C2DB0072F821 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					button,
+				);
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = calren;
 				TargetAttributes = {
